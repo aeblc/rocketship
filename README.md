@@ -1,6 +1,5 @@
 ## create a build directory
-mkdir build
-cd /build
+mkdir build && cd /build
 ## configure build space
 cmake ..
 ## build the project
